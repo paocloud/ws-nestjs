@@ -46,7 +46,10 @@ $ npm install
 1. set up MonGODB Connection Credential in .env file
 2. Create Database
 3. Create collection name = 'users'
-4. Please look example of user scheme from test/
+4. Please look example of user scheme from temp/
+
+## API Document by Swagger
+- Visit : http://localhost:4000/swagger
 
 ## Running the app
 
