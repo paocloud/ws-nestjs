@@ -1,0 +1,9 @@
+docker run -d -p 5000:5000 \
+-e PORT='5000' \
+-e DB_HOST='192.168.241.111' \
+-e DB_PORT='27017' \
+-e DB_USER='nest' \
+-e DB_PASS='nest1234' \
+-e DB_NAME='nest' \
+-e STAGE='production' \
+--name paonest asia.gcr.io/our-cursor-219403/paonest:v1.1.4
