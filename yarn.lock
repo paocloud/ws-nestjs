@@ -525,14 +525,14 @@
     "jest-resolve" "^26.0.1"
     "jest-util" "^26.0.1"
     "jest-worker" "^26.0.0"
-    "node-notifier" "^7.0.0"
+    "node-notifier" "^8.0.1"
     "slash" "^3.0.0"
     "source-map" "^0.6.0"
     "string-length" "^4.0.1"
     "terminal-link" "^2.0.0"
     "v8-to-istanbul" "^4.1.3"
   optionalDependencies:
-    "node-notifier" "^7.0.0"
+    "node-notifier" "^8.0.1"
 
 "@jest/source-map@^26.0.0":
   "integrity" "sha512-S2Z+Aj/7KOSU2TfW0dyzBze7xr95bkm5YXNUqqCek+HE0VbNNSNzrRwfIi5lf7wvzDTSS0/ib8XQ1krFNyYgbQ=="
@@ -727,7 +727,7 @@
   "resolved" "https://registry.npmjs.org/@nestjs/platform-socket.io/-/platform-socket.io-7.2.0.tgz"
   "version" "7.2.0"
   dependencies:
-    "socket.io" "2.3.0"
+    "socket.io" "2.4.0"
     "tslib" "2.0.0"
 
 "@nestjs/schematics@^7.0.1":
@@ -1054,10 +1054,10 @@
     "@types/express-serve-static-core" "*"
     "@types/mime" "*"
 
-"@types/socket.io@^2.1.8":
+"@types/socket.io@^2.4.0":
   "integrity" "sha512-NIQfh9WwJuJKlgmby4NgwMpoBOmNPCDgaRNPiLYZBtkbHkszK/9R52B5yGkd5a34rbVdAADuo8FhOS/5AZDemw=="
-  "resolved" "https://registry.npmjs.org/@types/socket.io/-/socket.io-2.1.8.tgz"
-  "version" "2.1.8"
+  "resolved" "https://registry.npmjs.org/@types/socket.io/-/socket.io-2.4.0.tgz"
+  "version" "2.4.0"
   dependencies:
     "@types/engine.io" "*"
     "@types/node" "*"
@@ -5111,10 +5111,10 @@
   "resolved" "https://registry.npmjs.org/inherits/-/inherits-2.0.4.tgz"
   "version" "2.0.4"
 
-"ini@~1.3.0":
+"ini@~1.3.6":
   "integrity" "sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw=="
   "resolved" "https://registry.npmjs.org/ini/-/ini-1.3.5.tgz"
-  "version" "1.3.5"
+  "version" "1.3.6"
 
 "inquirer@^7.0.0":
   "integrity" "sha512-Bu5Td5+j11sCkqfqmUTiwv+tWisMtP0L7Q8WrqA2C/BbBhy1YTdFrvjjlrKq8oagA/tLQBski2Gcx/Sqyi2qSQ=="
@@ -6615,10 +6615,10 @@
   "resolved" "https://registry.npmjs.org/minimist/-/minimist-1.2.5.tgz"
   "version" "1.2.5"
 
-"minimist@0.0.8":
+"minimist@0.2.1":
   "integrity" "sha1-hX/Kv8M5fSYluCKCYuhqp6ARsF0="
-  "resolved" "https://registry.npmjs.org/minimist/-/minimist-0.0.8.tgz"
-  "version" "0.0.8"
+  "resolved" "https://registry.npmjs.org/minimist/-/minimist-0.2.1.tgz"
+  "version" "0.2.1"
 
 "minipass@^2.6.0", "minipass@^2.8.6", "minipass@^2.9.0":
   "integrity" "sha512-wxfUjg9WebH+CUDX/CdbRlh5SmfZiy/hpkxaRI16Y9W56Pa75sWgd/rvFilSgrauD9NyFymP/+JFV3KwzIsJeg=="
@@ -6664,7 +6664,7 @@
   "resolved" "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz"
   "version" "0.5.1"
   dependencies:
-    "minimist" "0.0.8"
+    "minimist" "0.2.1"
 
 "mkdirp@^0.5.1", "mkdirp@^0.5.3":
   "integrity" "sha512-NKmAlESf6jMGym1++R0Ra7wvhV+wFW63FaSOFPwRahvea0gMUcGUhVeAg/0BC0wiv9ih5NYPB1Wn1UEI1/L+xQ=="
@@ -6927,10 +6927,10 @@
   "resolved" "https://registry.npmjs.org/node-modules-regexp/-/node-modules-regexp-1.0.0.tgz"
   "version" "1.0.0"
 
-"node-notifier@^7.0.0":
+"node-notifier@^8.0.1":
   "integrity" "sha512-VkzhierE7DBmQEElhTGJIoiZa1oqRijOtgOlsXg32KrJRXsPy0NXFBqWGW/wTswnJlDCs5viRYaqWguqzsKcmg=="
-  "resolved" "https://registry.npmjs.org/node-notifier/-/node-notifier-7.0.1.tgz"
-  "version" "7.0.1"
+  "resolved" "https://registry.npmjs.org/node-notifier/-/node-notifier-8.0.1.tgz"
+  "version" "8.0.1"
   dependencies:
     "growly" "^1.3.0"
     "is-wsl" "^2.1.1"
@@ -8632,10 +8632,10 @@
   "resolved" "https://registry.npmjs.org/socket.io-adapter/-/socket.io-adapter-1.1.2.tgz"
   "version" "1.1.2"
 
-"socket.io-client@2.3.0":
+"socket.io-client@2.4.0":
   "integrity" "sha512-cEQQf24gET3rfhxZ2jJ5xzAOo/xhZwK+mOqtGRg5IowZsMgwvHwnf/mCRapAAkadhM26y+iydgwsXGObBB5ZdA=="
-  "resolved" "https://registry.npmjs.org/socket.io-client/-/socket.io-client-2.3.0.tgz"
-  "version" "2.3.0"
+  "resolved" "https://registry.npmjs.org/socket.io-client/-/socket.io-client-2.4.0.tgz"
+  "version" "2.4.0"
   dependencies:
     "backo2" "1.0.2"
     "base64-arraybuffer" "0.1.5"
@@ -8670,16 +8670,16 @@
     "debug" "~4.1.0"
     "isarray" "2.0.1"
 
-"socket.io@2.3.0":
+"socket.io@2.4.0":
   "integrity" "sha512-2A892lrj0GcgR/9Qk81EaY2gYhCBxurV0PfmmESO6p27QPrUK1J3zdns+5QPqvUYK2q657nSj0guoIil9+7eFg=="
-  "resolved" "https://registry.npmjs.org/socket.io/-/socket.io-2.3.0.tgz"
+  "resolved" "https://registry.npmjs.org/socket.io/-/socket.io-2.4.0.tgz"
   "version" "2.3.0"
   dependencies:
     "debug" "~4.1.0"
     "engine.io" "~3.4.0"
     "has-binary2" "~1.0.2"
     "socket.io-adapter" "~1.1.0"
-    "socket.io-client" "2.3.0"
+    "socket.io-client" "2.4.0"
     "socket.io-parser" "~3.4.0"
 
 "sonic-boom@^1.0.2":
@@ -9908,12 +9908,12 @@
   dependencies:
     "http-parser-js" ">=0.4.0 <0.4.11"
     "safe-buffer" ">=5.1.0"
-    "websocket-extensions" ">=0.1.1"
+    "websocket-extensions" ">=0.1.4"
 
-"websocket-extensions@>=0.1.1":
+"websocket-extensions@>=0.1.4":
   "integrity" "sha512-nqHUnMXmBzT0w570r2JpJxfiSD1IzoI+HGVdd3aZ0yNi3ngvQ4jv1dtHt5VGxfI2yj5yqImPhOK4vmIh2xMbGg=="
-  "resolved" "https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.3.tgz"
-  "version" "0.1.3"
+  "resolved" "https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.4.tgz"
+  "version" "0.1.4"
 
 "whatwg-encoding@^1.0.5":
   "integrity" "sha512-b5lim54JOPN9HtzvK9HFXvBma/rnfFeqsic0hSpjtDbVxR3dJKLc+KB4V6GgiGOvl7CY/KNh8rxSo9DKQrnUEw=="
