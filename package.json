@@ -41,7 +41,7 @@
     "@types/chalk": "^2.2.0",
     "bcryptjs": "^2.4.3",
     "chalk": "^3.0.0",
-    "class-validator": "^0.11.0",
+    "class-validator": "^0.14.0",
     "csurf": "^1.11.0",
     "fastify-rate-limit": "^3.0.1",
     "helmet": "^3.21.2",
