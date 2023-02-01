@@ -45,7 +45,7 @@
     "csurf": "^1.11.0",
     "fastify-rate-limit": "^3.0.1",
     "helmet": "^3.21.2",
-    "mongoose": "^5.9.0",
+    "mongoose": "^5.13.15",
     "morgan": "^1.9.1",
     "nestjs-config": "^1.4.5",
     "passport": "^0.4.1",
